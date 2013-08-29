@@ -297,4 +297,8 @@
     <dimen name="qs_tile_margin_below_icon">17dp</dimen>
     <!-- Quick Settings tile geometry: icon size -->
     <dimen name="qs_tile_icon_size">32dp</dimen>
+
+    <!-- Network stats text size -->
+    <dimen name="network_stats_text_size">10dp</dimen>
+
 </resources>
